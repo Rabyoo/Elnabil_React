@@ -17,9 +17,10 @@ const ContactUs = () => {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
               <div className="rounded-lg overflow-hidden">
                 <iframe
-                  src="https://www.bing.com/maps?osid=2ffa1a36-eaee-4b2d-8905-1f00b3808279&cp=24.682343~46.523922&lvl=10.8804455&pi=0&imgid=8170e16c-d8b5-43af-a3d2-b38842c9ead2&v=2&sV=2&form=S00027"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3622.6320599628026!2d46.67529731439664!3d24.713551853386285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f044d367ce929%3A0x51167ed7c136d4d5!2sRiyadh%2C%20Saudi%20Arabia!5e0!3m2!1sen!2s!4v1620777294820!5m2!1sen!2s"
                   width="100%"
                   height="480"
+                  allowfullscreen=""
                   style={{ border: "0" }}
                   loading="lazy"></iframe>
               </div>

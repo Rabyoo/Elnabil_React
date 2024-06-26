@@ -28,7 +28,7 @@ const Transfer = () => {
                 <MdOutlineTransferWithinAStation className="text-5xl text-rose-600" />
               </div>
               <p class="text-xl font-medium leading-relaxed mt-4 mb-4 text-blueGray-600">
-                تقدم شركة اتقان افضل خدمات نقل الاثاث باقل تكاليف وأسرع وقت
+                تقدم شركة النبيل افضل خدمات نقل الاثاث باقل تكاليف وأسرع وقت
                 لتوفير المال والجهد وراحة العملاء من نقل وفك وتركيب وتغليف
                 الأثاث من خلال احدث سيارات مجهزه بمقاسات مختلفة من خلال متخصصون
                 وعماله فنية مدربة .

@@ -225,3 +225,10 @@
         display: none !important;
     }
 }
+@media screen and (max-width:440px) {
+    .card h2 {
+      position: relative;
+      top: -50px;
+      color: white;
+    }
+}

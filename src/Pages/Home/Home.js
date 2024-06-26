@@ -38,7 +38,7 @@ const Home = () => {
           <div
             data-aos="fade-up"
             className="heroText max-w-xl text-center ltr:sm:text-left rtl:sm:text-right">
-            <h1 className="text-3xl font-extrabold sm:text-4xl">
+            <h1 className="text-3xl text-gray-800 font-extrabold sm:text-4xl">
               خدمات نقل العفش والأثاث خدمات تخزين الاثاث نقل مكيفات سبليت عناية
               تامة لكافة المنقولات فك وتركيب العفش والاثاث <br /> "ضمان شامل
               لكافة المنقولات"
